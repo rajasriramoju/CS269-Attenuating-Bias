@@ -5,4 +5,4 @@ authored by Sunipa Dev and Jeff M. Phillips.
 
 Some code in this repository was adapted from the original repository (https://github.com/sunipa/Attenuating-Bias-in-Word-Vec).
 
-This repository also contains the paper survey in survey.pdf.
+This repository also contains the paper survey in survey.pdf. The survey is also available at (https://docs.google.com/document/d/1OBw2PtkLDtpcq-o9rtjRfijAX_2nl1bWe9ImWwTIbpg/edit).
